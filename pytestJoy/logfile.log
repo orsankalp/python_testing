@@ -1,0 +1,59 @@
+2024-06-22 14:37:50,849 :CRITICAL : pytestJoy.BaseClass :Critical issue
+2024-06-22 14:38:58,548 :DEBUG : pytestJoy.BaseClass :A debug statement is executed
+2024-06-22 14:38:58,548 :INFO : pytestJoy.BaseClass :Information statement
+2024-06-22 14:38:58,548 :DEBUG : pytestJoy.BaseClass :A debug statement is executed
+2024-06-22 14:38:58,548 :WARNING : pytestJoy.BaseClass :Something is in warning mode
+2024-06-22 14:38:58,548 :ERROR : pytestJoy.BaseClass :A Major error has happend
+2024-06-22 14:38:58,548 :CRITICAL : pytestJoy.BaseClass :Critical issue
+2024-06-22 14:41:34,187 :DEBUG : test_Booking :A debug statement is executed
+2024-06-22 14:41:34,188 :INFO : test_Booking :Information statement
+2024-06-22 14:41:34,188 :DEBUG : test_Booking :A debug statement is executed
+2024-06-22 14:41:34,188 :WARNING : test_Booking :Something is in warning mode
+2024-06-22 14:41:34,189 :ERROR : test_Booking :A Major error has happend
+2024-06-22 14:41:34,189 :CRITICAL : test_Booking :Critical issue
+2024-06-22 14:45:17,992 :DEBUG : test_Booking :A debug statement is executed
+2024-06-22 14:45:17,993 :INFO : test_Booking :Information statement
+2024-06-22 14:45:17,993 :DEBUG : test_Booking :A debug statement is executed
+2024-06-22 14:45:17,993 :WARNING : test_Booking :Something is in warning mode
+2024-06-22 14:45:17,993 :ERROR : test_Booking :A Major error has happend
+2024-06-22 14:45:17,993 :CRITICAL : test_Booking :Critical issue
+2024-06-22 14:53:26,597 :DEBUG : test_Booking :A debug statement is executed
+2024-06-22 14:53:26,597 :INFO : test_Booking :Information statement
+2024-06-22 14:53:26,597 :DEBUG : test_Booking :A debug statement is executed
+2024-06-22 14:53:26,597 :WARNING : test_Booking :Something is in warning mode
+2024-06-22 14:53:26,597 :ERROR : test_Booking :A Major error has happend
+2024-06-22 14:53:26,597 :CRITICAL : test_Booking :Critical issue
+2024-06-23 10:51:16,300 :CRITICAL : pytestJoy.test_logging :Critical issue
+2024-06-23 10:51:42,582 :CRITICAL : pytestJoy.test_logging :Critical issue
+2024-06-23 11:06:54,477 :CRITICAL : pytestJoy.test_logging :Critical issue
+2024-06-23 11:09:33,000 :DEBUG : test_Booking :A debug statement is executed
+2024-06-23 11:09:33,000 :INFO : test_Booking :Information statement
+2024-06-23 11:09:33,000 :DEBUG : test_Booking :A debug statement is executed
+2024-06-23 11:09:33,001 :WARNING : test_Booking :Something is in warning mode
+2024-06-23 11:09:33,001 :ERROR : test_Booking :A Major error has happend
+2024-06-23 11:09:33,001 :CRITICAL : test_Booking :Critical issue
+2024-06-23 11:09:33,018 :CRITICAL : pytestJoy.test_logging :Critical issue
+2024-06-23 11:11:01,673 :DEBUG : test_Booking :A debug statement is executed
+2024-06-23 11:11:01,673 :INFO : test_Booking :Information statement
+2024-06-23 11:11:01,674 :DEBUG : test_Booking :A debug statement is executed
+2024-06-23 11:11:01,674 :WARNING : test_Booking :Something is in warning mode
+2024-06-23 11:11:01,674 :ERROR : test_Booking :A Major error has happend
+2024-06-23 11:11:01,674 :CRITICAL : test_Booking :Critical issue
+2024-06-23 11:11:01,701 :DEBUG : pytestJoy.test_logging :A debug statement is executed
+2024-06-23 11:11:01,701 :INFO : pytestJoy.test_logging :Information statement
+2024-06-23 11:11:01,701 :DEBUG : pytestJoy.test_logging :A debug statement is executed
+2024-06-23 11:11:01,701 :WARNING : pytestJoy.test_logging :Something is in warning mode
+2024-06-23 11:11:01,701 :ERROR : pytestJoy.test_logging :A Major error has happend
+2024-06-23 11:11:01,701 :CRITICAL : pytestJoy.test_logging :Critical issue
+2024-06-23 11:14:20,411 :DEBUG : test_Booking :A debug statement is executed
+2024-06-23 11:14:20,412 :INFO : test_Booking :Information statement
+2024-06-23 11:14:20,412 :DEBUG : test_Booking :A debug statement is executed
+2024-06-23 11:14:20,412 :WARNING : test_Booking :Something is in warning mode
+2024-06-23 11:14:20,413 :ERROR : test_Booking :A Major error has happend
+2024-06-23 11:14:20,413 :CRITICAL : test_Booking :Critical issue
+2024-06-23 11:14:20,435 :DEBUG : pytestJoy.test_logging :A debug statement is executed
+2024-06-23 11:14:20,436 :INFO : pytestJoy.test_logging :Information statement
+2024-06-23 11:14:20,436 :DEBUG : pytestJoy.test_logging :A debug statement is executed
+2024-06-23 11:14:20,436 :WARNING : pytestJoy.test_logging :Something is in warning mode
+2024-06-23 11:14:20,436 :ERROR : pytestJoy.test_logging :A Major error has happend
+2024-06-23 11:14:20,436 :CRITICAL : pytestJoy.test_logging :Critical issue
